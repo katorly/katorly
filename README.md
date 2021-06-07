@@ -15,6 +15,6 @@ For business/non-business contact:<br>
 ### ⚖️ Copyright Info
 - Sharing is welcomed if you leave a source.
 - Editing, modification and distribution for profit is not allowed. To reprint any work of mine, you must first contact by email to ask for my consent.
-- All images and videos are copyrighted by Katorly.
+- All screenshots and recorded videos are copyrighted by Katorly.
 
 ⓒ 2018-2021 Katorly. All rights reserved.
