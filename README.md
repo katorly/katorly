@@ -14,11 +14,11 @@ For any advice or business/non-business please contact:<br>
 
 
 ### ✈️ Navigation
-<a href="https://hub.fastgit.org/katorly" target="_blank"><img align="center" width="49%" src="/About.png"></a><a href="https://hub.fastgit.org/search?q=topic%3Abuilding+org%3Akatorlys&type=Repositories" target="_blank"><img align="center" width="49%" src="/Builds.png"></a>
-<a href="https://hub.fastgit.org/search?q=topic%3Adesign+org%3Akatorlys&type=Repositories" target="_blank"><img align="center" width="49%" src="Designs.png"></a><a href="https://hub.fastgit.org/katorlys/backups" target="_blank"><img align="center" width="49%" src="/Support.png"></a>
+<a href="https://hub.fastgit.org/katorly" target="_blank"><img align="center" width="45%" src="/Navigations/navigation1.png"></a><a href="https://hub.fastgit.org/search?q=topic%3Abuilding+org%3Akatorlys&type=Repositories" target="_blank"><img align="center" width="45%" src="/Navigations/navigation2.png"></a>
+<a href="https://hub.fastgit.org/search?q=topic%3Adesign+org%3Akatorlys&type=Repositories" target="_blank"><img align="center" width="45%" src="/Navigations/navigation3.png"></a><a href="https://hub.fastgit.org/katorlys/backups" target="_blank"><img align="center" width="45%" src="/Navigations/navigation4.png"></a>
 
 ### Social Links
-<a href="https://hub.fastgit.org/katorly" target="_blank"><img align="center" width="15%" src="/SocialLinks/github.png"></a><a href="https://www.planetminecraft.com/member/katorly" target="_blank"><img align="center" width="15%" src="/SocialLinks/planetminecraft.png"></a><a href="https://www.mcbbs.net/?3094455" target="_blank"><img align="center" width="15%" src="/SocialLinks/mcbbs.png"></a><a href="http://afdian.net/@katorly" target="_blank"><img align="center" width="15%" src="/SocialLinks/afdian.png"></a><a href="mailto:katorly@qq.com" target="_blank"><img align="center" width="15%" src="/SocialLinks/email.png"></a>
+<a href="https://hub.fastgit.org/katorly" target="_blank"><img align="center" width="5%" src="/SocialLinks/github.png"></a><a href="https://www.planetminecraft.com/member/katorly" target="_blank"><img align="center" width="5%" src="/SocialLinks/planetminecraft.png"></a><a href="https://www.mcbbs.net/?3094455" target="_blank"><img align="center" width="5%" src="/SocialLinks/mcbbs.png"></a><a href="http://afdian.net/@katorly" target="_blank"><img align="center" width="5%" src="/SocialLinks/afdian.png"></a><a href="mailto:katorly@qq.com" target="_blank"><img align="center" width="5%" src="/SocialLinks/email.png"></a>
 
 ### ⚖️ Copyright Info
 - Sharing is welcomed if you leave a source.
