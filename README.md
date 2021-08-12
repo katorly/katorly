@@ -1,21 +1,15 @@
-# Hello & Welcome! ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=katorly.katorly)
-Hi there! My name is Katorly and I'm glad to meet you here.<br>
-I'm currently making Minecraft data packs (which are only available on Minecraft: Java Edition).
-Please leave a comment or give a diamond to the project you like! It only costs 2 seconds! :)
+<h1 align="center">Hi 👋, I'm Katorly</h1>
+<h3 align="center">Personal Website: https://katorly.gitee.io</h3>
 
-For any advice or business/non-business please contact:<br>
-[katorly@qq.com](mailto:katorly@qq.com)
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=katorly.katorly" alt="katorly" /> </p>
 
+- 💻 I’m currently working on [Katorly Code Lab](https://github.com/katorlys)
 
-### ✈️ Navigation
-<a href="https://hub.fastgit.org/katorly" target="_blank"><img align="center" width="49%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/Navigations/nav1.png"></a><a href="https://hub.fastgit.org/katorlys/backups" target="_blank"><img align="center" width="49%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/Navigations/nav2.png"></a>
-<a href="https://hub.fastgit.org/katorlys" target="_blank"><img align="center" width="98%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/Navigations/nav3.png"></a>
+- 📚 All of my projects are available at [github.com/katorlys](https://github.com/orgs/katorlys/repositories) and [github.com/katorly](https://github.com/katorly?tab=repositories)
 
-### 🔗 Social Links
-<a href="https://github.com/katorly" target="_blank"><img align="center" width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/github.png"></a><a href="https://www.planetminecraft.com/member/katorly" target="_blank"><img align="center" width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/planetminecraft.png"></a><a href="https://www.mcbbs.net/?3094455" target="_blank"><img align="center" width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/mcbbs.png"></a><a href="http://afdian.net/@katorly" target="_blank"><img align="center" width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/afdian.png"></a><a href="mailto:katorly@qq.com" target="_blank"><img align="center" width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/email.png"></a>
+- ❓ Ask me about **Minecraft server SETUP making**
 
-### ⚖️ Copyright Info
-[![License](https://img.shields.io/badge/license-CC--BY--NC--ND--4.0-green?style=for-the-badge)](http://creativecommons.org/licenses/by-nc-nd/4.0)<br>
-All creations of mine are under the 'CC BY-NC-ND 4.0' license.<br>
+- 📫 How to reach me **katorly@qq.com**
 
-© Katorly. All rights reserved.
+<br>
+<p><img align="center" width="48%" src="https://github-stats-katorly.vercel.app/api?username=katorly&show_icons=true&locale=en" alt="katorly" /> <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=katorly&" alt="katorly" /></p>
