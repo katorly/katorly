@@ -12,4 +12,7 @@
 - 📫 How to reach me **katorly@qq.com**
 
 <br>
-<p><img align="center" width="48%" src="https://github-stats-katorly.vercel.app/api?username=katorly&show_icons=true&locale=en" alt="katorly" /> <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=katorly&" alt="katorly" /></p>
+<p align="center"><a href="https://github.com/katorlys"><img width="96%" src="SocialLinks/Katorly Code Lab GIF.gif"></img></a></p>
+
+<br>
+<p align="center"><img align="center" width="48%" src="https://github-stats-katorly.vercel.app/api?username=katorly&show_icons=true&locale=en" alt="katorly" /> <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=katorly&" alt="katorly" /></p>
