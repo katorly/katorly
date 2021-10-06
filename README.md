@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 <h3 align="center">Personal Website: https://katorly.gitee.io</h3>
 
-<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=katorly.katorly" alt="katorly" /> <img src="https://badges.pufler.dev/repos/katorly" alt="katorly" /></p>
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=katorly.katorly" alt="katorly" /> <img src="https://badges.pufler.dev/repos/katorly" alt="katorly" /> <img src="https://badges.pufler.dev/years/katorly" alt="katorly" /></p>
 
 ## 📜 About Me
 My name is **Katorly**.<br>
