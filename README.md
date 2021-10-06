@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=katorly.katorly" alt="katorly" /> <img src="https://badges.pufler.dev/repos/katorly" alt="katorly" /></p>
 
 ## 📊 Statistics
-<p align="center"><img align="center" width="48%" src="https://github-stats-katorly.vercel.app/api?username=katorly&show_icons=true" alt="katorly" /> <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=katorly&" alt="katorly" /></p>
+<p align="center"><img align="center" width="48%" src="https://github-stats-katorly.vercel.app/api?username=katorly&show_icons=true&hide_border=true&hide_title=true" alt="katorly" /> <img align="center" width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=katorly&theme=vue&hide_border=true&date_format=%5BY.%5Dn.j&" alt="katorly" /></p>
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
