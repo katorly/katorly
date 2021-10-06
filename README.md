@@ -1,7 +1,20 @@
-<h1 align="center">Hi 👋, I'm Katorly</h1>
+<h1 align="center">Hi there! 👋</h1>
 <h3 align="center">Personal Website: https://katorly.gitee.io</h3>
 
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=katorly.katorly" alt="katorly" /> <img src="https://badges.pufler.dev/repos/katorly" alt="katorly" /></p>
+
+## 📜 About Me
+My name is **Katorly**.<br>
+
+As a Minecraft lover, I developed a hobby of making Minecraft server plugins. The process requires learning Minecraft server setup making, so I'm good at it now - you can ask me about it if you need help.😄 I also help translate plugins into Chinese (Simplified).<br>
+
+Currently working on **[Katorly Code Lab](https://github.com/katorlys)**. You can view all my programming projects there.<br>
+
+For business/non-business contact: [katorly@qq.com](mailto:katorly@qq.com)<br>
+
+<p align="center"><a href="https://github.com/katorlys"><img width="96%" src="SocialLinks/Katorly Code Lab GIF.gif"></img></a></p>
+
+## 💎 Featured Projects
 
 ## 📊 Statistics
 <p align="center"><img align="center" width="48%" src="https://github-stats-katorly.vercel.app/api?username=katorly&show_icons=true&hide_border=true&hide_title=true" alt="katorly" /> <img align="center" width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=katorly&theme=vue&hide_border=true&date_format=%5BY.%5Dn.j&" alt="katorly" /></p>
@@ -14,18 +27,3 @@
 4. 💪 Opened PR [#63](https://github.com/BentoBoxWorld/CaveBlock/pull/63) in [BentoBoxWorld/CaveBlock](https://github.com/BentoBoxWorld/CaveBlock)
 5. 💪 Opened PR [#30](https://github.com/SuperRonanCraft/AdvancedCustomMenu/pull/30) in [SuperRonanCraft/AdvancedCustomMenu](https://github.com/SuperRonanCraft/AdvancedCustomMenu)
 6. 💪 Opened PR [#3](https://github.com/BentoBoxWorld/CheckMeOut/pull/3) in [BentoBoxWorld/CheckMeOut](https://github.com/BentoBoxWorld/CheckMeOut)
-<!--END_SECTION:activity-->
-<br>
-
-## About Me
-
-- 💻 I’m currently working on [Katorly Code Lab](https://github.com/katorlys)
-
-- 📚 All of my projects are available at [github.com/katorlys](https://github.com/orgs/katorlys/repositories) and [github.com/katorly](https://github.com/katorly?tab=repositories)
-
-- ❓ Ask me about **Minecraft server SETUP making**
-
-- 📫 How to reach me **katorly@qq.com**
-
-<br>
-<p align="center"><a href="https://github.com/katorlys"><img width="96%" src="SocialLinks/Katorly Code Lab GIF.gif"></img></a></p>
