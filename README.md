@@ -26,6 +26,13 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 4. 💪 Opened PR [#63](https://github.com/BentoBoxWorld/CaveBlock/pull/63) in [BentoBoxWorld/CaveBlock](https://github.com/BentoBoxWorld/CaveBlock)
 5. 💪 Opened PR [#30](https://github.com/SuperRonanCraft/AdvancedCustomMenu/pull/30) in [SuperRonanCraft/AdvancedCustomMenu](https://github.com/SuperRonanCraft/AdvancedCustomMenu)
 6. 💪 Opened PR [#3](https://github.com/BentoBoxWorld/CheckMeOut/pull/3) in [BentoBoxWorld/CheckMeOut](https://github.com/BentoBoxWorld/CheckMeOut)
+<!--END_SECTION:activity-->
+1. 💪 Opened PR [#10](https://github.com/SuperRonanCraft/BetterEconomy/pull/10) in [SuperRonanCraft/BetterEconomy](https://github.com/SuperRonanCraft/BetterEconomy)
+2. ❌ Closed PR [#30](https://github.com/SuperRonanCraft/AdvancedCustomMenu/pull/30) in [SuperRonanCraft/AdvancedCustomMenu](https://github.com/SuperRonanCraft/AdvancedCustomMenu)
+3. 🗣 Commented on [#30](https://github.com/SuperRonanCraft/AdvancedCustomMenu/issues/30) in [SuperRonanCraft/AdvancedCustomMenu](https://github.com/SuperRonanCraft/AdvancedCustomMenu)
+4. 💪 Opened PR [#63](https://github.com/BentoBoxWorld/CaveBlock/pull/63) in [BentoBoxWorld/CaveBlock](https://github.com/BentoBoxWorld/CaveBlock)
+5. 💪 Opened PR [#30](https://github.com/SuperRonanCraft/AdvancedCustomMenu/pull/30) in [SuperRonanCraft/AdvancedCustomMenu](https://github.com/SuperRonanCraft/AdvancedCustomMenu)
+6. 💪 Opened PR [#3](https://github.com/BentoBoxWorld/CheckMeOut/pull/3) in [BentoBoxWorld/CheckMeOut](https://github.com/BentoBoxWorld/CheckMeOut)
 
 ## 💎 Featured Projects
 - [`katorlys/FilePropertyViewer`](https://github.com/katorlys/FilePropertyViewer)
