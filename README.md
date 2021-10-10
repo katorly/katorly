@@ -20,6 +20,13 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#31](https://github.com/SuperRonanCraft/AdvancedCustomMenu/pull/31) in [SuperRonanCraft/AdvancedCustomMenu](https://github.com/SuperRonanCraft/AdvancedCustomMenu)
+2. 💪 Opened PR [#11](https://github.com/BentoBoxWorld/CauldronWitchery/pull/11) in [BentoBoxWorld/CauldronWitchery](https://github.com/BentoBoxWorld/CauldronWitchery)
+3. 💪 Opened PR [#44](https://github.com/BentoBoxWorld/Upgrades/pull/44) in [BentoBoxWorld/Upgrades](https://github.com/BentoBoxWorld/Upgrades)
+4. 💪 Opened PR [#14](https://github.com/BentoBoxWorld/Visit/pull/14) in [BentoBoxWorld/Visit](https://github.com/BentoBoxWorld/Visit)
+5. 🗣 Commented on [#40](https://github.com/puf17640/git-badges/issues/40) in [puf17640/git-badges](https://github.com/puf17640/git-badges)
+6. 🗣 Commented on [#41](https://github.com/puf17640/git-badges/issues/41) in [puf17640/git-badges](https://github.com/puf17640/git-badges)
+<!--END_SECTION:activity-->
 
 ## 💎 Featured Projects
 - [`katorlys/FilePropertyViewer`](https://github.com/katorlys/FilePropertyViewer)
