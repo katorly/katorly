@@ -9,7 +9,7 @@ My name is **Katorly**.<br>
 I'm a Minecraft lover who loves playing multiplayer and loves building things. I have developed a hobby of making Minecraft Java server plugins over the past several years, and also help translate plugins into Chinese (Simplified).<br>
 Feel free to ask me questions about Minecraft server setup making.😄<br>
 
-Currently working on [**Katorly Code Lab**](https://github.com/katorlys). You can view all my programming projects there.<br>
+Currently working on [**Katorly Lab**](https://github.com/katorlys). You can view all my programming projects there.<br>
 
 For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<br>
 
