@@ -20,12 +20,12 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/katorly/Gallery001/pull/1) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
-2. 💪 Opened PR [#414](https://github.com/Shynixn/BlockBall/pull/414) in [Shynixn/BlockBall](https://github.com/Shynixn/BlockBall)
-3. 💪 Opened PR [#30](https://github.com/BentoBoxWorld/Likes/pull/30) in [BentoBoxWorld/Likes](https://github.com/BentoBoxWorld/Likes)
-4. 💪 Opened PR [#6](https://github.com/DavidML16/AParkour/pull/6) in [DavidML16/AParkour](https://github.com/DavidML16/AParkour)
-5. 💪 Opened PR [#2](https://github.com/AlessioGr/NotQuests/pull/2) in [AlessioGr/NotQuests](https://github.com/AlessioGr/NotQuests)
-6. 💪 Opened PR [#31](https://github.com/SuperRonanCraft/AdvancedCustomMenu/pull/31) in [SuperRonanCraft/AdvancedCustomMenu](https://github.com/SuperRonanCraft/AdvancedCustomMenu)
+1. 🎉 Merged PR [#2](https://github.com/katorly/Gallery001/pull/2) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
+2. 🎉 Merged PR [#1](https://github.com/katorly/Gallery001/pull/1) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
+3. 💪 Opened PR [#414](https://github.com/Shynixn/BlockBall/pull/414) in [Shynixn/BlockBall](https://github.com/Shynixn/BlockBall)
+4. 💪 Opened PR [#30](https://github.com/BentoBoxWorld/Likes/pull/30) in [BentoBoxWorld/Likes](https://github.com/BentoBoxWorld/Likes)
+5. 💪 Opened PR [#6](https://github.com/DavidML16/AParkour/pull/6) in [DavidML16/AParkour](https://github.com/DavidML16/AParkour)
+6. 💪 Opened PR [#2](https://github.com/AlessioGr/NotQuests/pull/2) in [AlessioGr/NotQuests](https://github.com/AlessioGr/NotQuests)
 <!--END_SECTION:activity-->
 
 ## 💎 Featured Projects
