@@ -16,7 +16,8 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 <p align="center"><a href="https://github.com/katorlys"><img width="96%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Katorly Lab GIF.gif"></img></a></p>
 
 ## 📊 My Statistics
-<p align="center"><img width="48%" src="https://github-stats-katorly.vercel.app/api?username=katorly&title_color=42B883&show_icons=true&icon_color=DC352C&include_all_commits=true"> <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=katorly&theme=vue&date_format=%5BY.%5Dn.j&dates=000000"></p>
+<p align="center"><img width="48%" src="https://github-stats-katorly.vercel.app/api?username=katorly&title_color=42B883&show_icons=true&icon_color=DC352C&include_all_commits=true"> <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=katorly&theme=vue&date_format=%5BY.%5Dn.j&dates=000000"><br><br>
+<img width="94%" src="https://ghchart.rshah.org/409ba5/katorly"></p>
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
@@ -28,7 +29,7 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 6. 🎉 Merged PR [#1](https://github.com/katorly/Gallery001/pull/1) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
 <!--END_SECTION:activity-->
 
-## 💎 Featured Projects
+<!-- ## 💎 Featured Projects
 - [`katorlys/FilePropertyViewer`](https://github.com/katorlys/FilePropertyViewer)
 - [`katorlys/CleanJunkFiles`](https://github.com/katorlys/CleanJunkFiles)
 - [`katorlys/Spigot-CustomConfig`](https://github.com/katorlys/Spigot-CustomConfig)
@@ -39,7 +40,7 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 - [`Shopkeepers/Shopkeepers`](https://github.com/Shopkeepers/Translations)
 - [`BentoBoxWorld/CaveBlock`](https://github.com/BentoBoxWorld/CaveBlock)
-</details>
+</details> -->
 
 ## 🔗 Social Links
 <p align="left"><a href="https://github.com/katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/github.png"></a>
