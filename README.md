@@ -16,7 +16,7 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 <p align="center"><a href="https://github.com/katorlys"><img width="96%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Katorly Lab GIF.gif"></img></a></p>
 
 ## 📊 My Statistics
-<p align="center"><a href="https://github.com/katorly"><img width="48%" src="https://github-stats-katorly.vercel.app/api?username=katorly&title_color=42B883&show_icons=true&icon_color=DC352C&include_all_commits=true"></a> <a href="https://github.com/katorly"><img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=katorly&theme=vue&date_format=%5BY.%5Dn.j&dates=000000"></a><br><br>
+<p align="center"><a href="https://github.com/katorly"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=katorly&title_color=42B883&show_icons=true&icon_color=DC352C&include_all_commits=true"></a> <a href="https://github.com/katorly"><img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=katorly&theme=vue&date_format=%5BY.%5Dn.j&dates=000000"></a><br><br>
 <a href="https://github.com/katorly"><img width="94%" src="https://ghchart.rshah.org/409ba5/katorly"></a></p>
 
 ### ⚡ Recent Activity
