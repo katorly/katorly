@@ -22,12 +22,12 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/katorly/Gallery001/pull/6) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
-2. 🗣 Commented on [#3283](https://github.com/LuckPerms/LuckPerms/issues/3283) in [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms)
-3. 🗣 Commented on [#7814](https://github.com/gitpod-io/gitpod/issues/7814) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-4. ❌ Closed PR [#1](https://github.com/katorlys/Maven-Spigot-Starter/pull/1) in [katorlys/Maven-Spigot-Starter](https://github.com/katorlys/Maven-Spigot-Starter)
-5. 🗣 Commented on [#1](https://github.com/katorlys/Maven-Spigot-Starter/issues/1) in [katorlys/Maven-Spigot-Starter](https://github.com/katorlys/Maven-Spigot-Starter)
-6. 🗣 Commented on [#3](https://github.com/katorlys/Starlin_L2/issues/3) in [katorlys/Starlin_L2](https://github.com/katorlys/Starlin_L2)
+1. ❌ Closed PR [#7](https://github.com/katorly/Gallery001/pull/7) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
+2. 🎉 Merged PR [#6](https://github.com/katorly/Gallery001/pull/6) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
+3. 🗣 Commented on [#3283](https://github.com/LuckPerms/LuckPerms/issues/3283) in [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms)
+4. 🗣 Commented on [#7814](https://github.com/gitpod-io/gitpod/issues/7814) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+5. ❌ Closed PR [#1](https://github.com/katorlys/Maven-Spigot-Starter/pull/1) in [katorlys/Maven-Spigot-Starter](https://github.com/katorlys/Maven-Spigot-Starter)
+6. 🗣 Commented on [#1](https://github.com/katorlys/Maven-Spigot-Starter/issues/1) in [katorlys/Maven-Spigot-Starter](https://github.com/katorlys/Maven-Spigot-Starter)
 <!--END_SECTION:activity-->
 
 <!-- ## 💎 Featured Projects
