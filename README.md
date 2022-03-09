@@ -22,12 +22,12 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/katorlys/MediaKit/pull/7) in [katorlys/MediaKit](https://github.com/katorlys/MediaKit)
-2. ❌ Closed PR [#6](https://github.com/katorlys/MediaKit/pull/6) in [katorlys/MediaKit](https://github.com/katorlys/MediaKit)
-3. 🎉 Merged PR [#5](https://github.com/katorlys/MediaKit/pull/5) in [katorlys/MediaKit](https://github.com/katorlys/MediaKit)
-4. 💪 Opened PR [#5](https://github.com/katorlys/MediaKit/pull/5) in [katorlys/MediaKit](https://github.com/katorlys/MediaKit)
-5. 🎉 Merged PR [#4](https://github.com/katorlys/MediaKit/pull/4) in [katorlys/MediaKit](https://github.com/katorlys/MediaKit)
-6. 🎉 Merged PR [#3](https://github.com/katorlys/MediaKit/pull/3) in [katorlys/MediaKit](https://github.com/katorlys/MediaKit)
+1. 🎉 Merged PR [#8](https://github.com/katorly/Gallery001/pull/8) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
+2. 🎉 Merged PR [#7](https://github.com/katorlys/MediaKit/pull/7) in [katorlys/MediaKit](https://github.com/katorlys/MediaKit)
+3. ❌ Closed PR [#6](https://github.com/katorlys/MediaKit/pull/6) in [katorlys/MediaKit](https://github.com/katorlys/MediaKit)
+4. 🎉 Merged PR [#5](https://github.com/katorlys/MediaKit/pull/5) in [katorlys/MediaKit](https://github.com/katorlys/MediaKit)
+5. 💪 Opened PR [#5](https://github.com/katorlys/MediaKit/pull/5) in [katorlys/MediaKit](https://github.com/katorlys/MediaKit)
+6. 🎉 Merged PR [#4](https://github.com/katorlys/MediaKit/pull/4) in [katorlys/MediaKit](https://github.com/katorlys/MediaKit)
 <!--END_SECTION:activity-->
 
 <!-- ## 💎 Featured Projects
