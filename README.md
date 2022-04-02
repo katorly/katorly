@@ -48,5 +48,6 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 <a href="https://www.spigotmc.org/members/katorly.1301379/#resources"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/spigotmc.png"></a>
 <a href="https://www.planetminecraft.com/member/katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/planetminecraft.png"></a>
 <a href="https://www.mcbbs.net/?3094455"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/mcbbs.png"></a>
-<a href="https://www.buymeacoffee.com/katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/buymeacoffee.png"></a>
+<!-- <a href="https://www.buymeacoffee.com/katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/buymeacoffee.png"></a> -->
+<a href="https://afdian.net/@katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/afdian.png"></a>
 <a href="mailto:katorly@qq.com"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/email.png"></a></p>
