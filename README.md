@@ -22,10 +22,10 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/katorlys/katorlys.github.io/issues/3) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
-2. 🗣 Commented on [#3](https://github.com/katorlys/katorlys.github.io/issues/3) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
-3. 🗣 Commented on [#2](https://github.com/katorlys/HelpCenter/issues/2) in [katorlys/HelpCenter](https://github.com/katorlys/HelpCenter)
-4. 🗣 Commented on [#6](https://github.com/katorlys/katorlys.github.io/issues/6) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
+1. 🎉 Merged PR [#7](https://github.com/katorlys/katorlys.github.io/pull/7) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
+2. ❗️ Closed issue [#3](https://github.com/katorlys/katorlys.github.io/issues/3) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
+3. 🗣 Commented on [#3](https://github.com/katorlys/katorlys.github.io/issues/3) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
+4. 🗣 Commented on [#2](https://github.com/katorlys/HelpCenter/issues/2) in [katorlys/HelpCenter](https://github.com/katorlys/HelpCenter)
 5. 🗣 Commented on [#6](https://github.com/katorlys/katorlys.github.io/issues/6) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
 6. 🗣 Commented on [#6](https://github.com/katorlys/katorlys.github.io/issues/6) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
 <!--END_SECTION:activity-->
