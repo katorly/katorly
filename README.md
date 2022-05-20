@@ -13,7 +13,7 @@ Currently working on [**Katorly Lab**](https://github.com/katorlys). You can vie
 
 For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<br>
 
-<p align="center"><a href="https://github.com/katorlys"><img width="96%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Katorly%20Lab%20GIF.gif"></img></a></p>
+<p align="center"><a href="https://github.com/katorlys"><img width="96%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Katorly%20Lab%20GIF.gif"></a></p>
 
 ## 📊 My Statistics
 <p align="center"><a href="https://github.com/katorly"><img width="48%" src="https://github-readme-stats-katorly.vercel.app/api?username=katorly&title_color=42B883&show_icons=true&icon_color=DC352C&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"></a> <a href="https://github.com/katorly"><img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=katorly&theme=vue&date_format=%5BY.%5Dn.j&dates=000000"></a><br><br>
