@@ -22,12 +22,12 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/Jurredr/github-widgetbox/issues/4) in [Jurredr/github-widgetbox](https://github.com/Jurredr/github-widgetbox)
-2. ❗️ Opened issue [#8](https://github.com/katorlys/katorlys.github.io/issues/8) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
-3. 🗣 Commented on [#1](https://github.com/katorly/LiteCustomAnnouncer/issues/1) in [katorly/LiteCustomAnnouncer](https://github.com/katorly/LiteCustomAnnouncer)
-4. 🎉 Merged PR [#1](https://github.com/katorly/LiteCustomAnnouncer/pull/1) in [katorly/LiteCustomAnnouncer](https://github.com/katorly/LiteCustomAnnouncer)
-5. 🗣 Commented on [#1](https://github.com/katorly/LiteCustomAnnouncer/issues/1) in [katorly/LiteCustomAnnouncer](https://github.com/katorly/LiteCustomAnnouncer)
-6. 🎉 Merged PR [#7](https://github.com/katorlys/katorlys.github.io/pull/7) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
+1. 🎉 Merged PR [#10](https://github.com/katorly/Gallery001/pull/10) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
+2. ❗️ Opened issue [#4](https://github.com/Jurredr/github-widgetbox/issues/4) in [Jurredr/github-widgetbox](https://github.com/Jurredr/github-widgetbox)
+3. ❗️ Opened issue [#8](https://github.com/katorlys/katorlys.github.io/issues/8) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
+4. 🗣 Commented on [#1](https://github.com/katorly/LiteCustomAnnouncer/issues/1) in [katorly/LiteCustomAnnouncer](https://github.com/katorly/LiteCustomAnnouncer)
+5. 🎉 Merged PR [#1](https://github.com/katorly/LiteCustomAnnouncer/pull/1) in [katorly/LiteCustomAnnouncer](https://github.com/katorly/LiteCustomAnnouncer)
+6. 🗣 Commented on [#1](https://github.com/katorly/LiteCustomAnnouncer/issues/1) in [katorly/LiteCustomAnnouncer](https://github.com/katorly/LiteCustomAnnouncer)
 <!--END_SECTION:activity-->
 
 <!-- ## 💎 Featured Projects
