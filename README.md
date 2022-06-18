@@ -22,11 +22,11 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/katorly/Gallery001/pull/10) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
-2. ❗️ Opened issue [#4](https://github.com/Jurredr/github-widgetbox/issues/4) in [Jurredr/github-widgetbox](https://github.com/Jurredr/github-widgetbox)
-3. ❗️ Opened issue [#8](https://github.com/katorlys/katorlys.github.io/issues/8) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
-4. 🗣 Commented on [#1](https://github.com/katorly/LiteCustomAnnouncer/issues/1) in [katorly/LiteCustomAnnouncer](https://github.com/katorly/LiteCustomAnnouncer)
-5. 🎉 Merged PR [#1](https://github.com/katorly/LiteCustomAnnouncer/pull/1) in [katorly/LiteCustomAnnouncer](https://github.com/katorly/LiteCustomAnnouncer)
+1. 🎉 Merged PR [#9](https://github.com/katorlys/katorlys.github.io/pull/9) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
+2. 💪 Opened PR [#9](https://github.com/katorlys/katorlys.github.io/pull/9) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
+3. 🎉 Merged PR [#10](https://github.com/katorly/Gallery001/pull/10) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
+4. ❗️ Opened issue [#4](https://github.com/Jurredr/github-widgetbox/issues/4) in [Jurredr/github-widgetbox](https://github.com/Jurredr/github-widgetbox)
+5. ❗️ Opened issue [#8](https://github.com/katorlys/katorlys.github.io/issues/8) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
 6. 🗣 Commented on [#1](https://github.com/katorly/LiteCustomAnnouncer/issues/1) in [katorly/LiteCustomAnnouncer](https://github.com/katorly/LiteCustomAnnouncer)
 <!--END_SECTION:activity-->
 
