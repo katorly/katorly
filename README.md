@@ -22,12 +22,12 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/katorly/Gallery001/pull/11) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
+1. 🗣 Commented on [#2](https://github.com/katorlys/Spigot-CustomConfig/issues/2) in [katorlys/Spigot-CustomConfig](https://github.com/katorlys/Spigot-CustomConfig)
 2. 🗣 Commented on [#2](https://github.com/katorlys/Spigot-CustomConfig/issues/2) in [katorlys/Spigot-CustomConfig](https://github.com/katorlys/Spigot-CustomConfig)
-3. ❗️ Opened issue [#56](https://github.com/puf17640/git-badges/issues/56) in [puf17640/git-badges](https://github.com/puf17640/git-badges)
-4. 🎉 Merged PR [#9](https://github.com/katorlys/katorlys.github.io/pull/9) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
-5. 💪 Opened PR [#9](https://github.com/katorlys/katorlys.github.io/pull/9) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
-6. 🎉 Merged PR [#10](https://github.com/katorly/Gallery001/pull/10) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
+3. 🎉 Merged PR [#11](https://github.com/katorly/Gallery001/pull/11) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
+4. 🗣 Commented on [#2](https://github.com/katorlys/Spigot-CustomConfig/issues/2) in [katorlys/Spigot-CustomConfig](https://github.com/katorlys/Spigot-CustomConfig)
+5. ❗️ Opened issue [#56](https://github.com/puf17640/git-badges/issues/56) in [puf17640/git-badges](https://github.com/puf17640/git-badges)
+6. 🎉 Merged PR [#9](https://github.com/katorlys/katorlys.github.io/pull/9) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
 <!--END_SECTION:activity-->
 
 <!-- ## 💎 Featured Projects
