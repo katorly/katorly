@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 <h3 align="center">Personal Website: https://katorly.gitee.io</h3>
 <!-- Old Visitor Badge: https://visitor-badge.laobi.icu/badge?page_id=katorly.katorly -->
-<p align="center"><a href="https://github.com/katorly"><img src="https://badges.pufler.dev/visits/katorly/katorly?style=for-the-badge&color=85ABFF"></a> <a href="https://github.com/katorly"><img src="https://badges.pufler.dev/repos/katorly?style=for-the-badge&color=EE7379"></a> <a href="https://github.com/katorly"><img src="https://badges.pufler.dev/gists/katorly?style=for-the-badge&color=C894EB"></a></p>
+<!-- <p align="center"><a href="https://github.com/katorly"><img src="https://badges.pufler.dev/visits/katorly/katorly?style=for-the-badge&color=85ABFF"></a> <a href="https://github.com/katorly"><img src="https://badges.pufler.dev/repos/katorly?style=for-the-badge&color=EE7379"></a> <a href="https://github.com/katorly"><img src="https://badges.pufler.dev/gists/katorly?style=for-the-badge&color=C894EB"></a></p> -->
 
 ## 📜 About Me
 My name is **Katorly**.<br>
