@@ -23,12 +23,12 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/katorlys/StarlinUtils/issues/6) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
-2. 🗣 Commented on [#6](https://github.com/katorlys/StarlinUtils/issues/6) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
-3. ❗️ Opened issue [#6](https://github.com/katorlys/StarlinUtils/issues/6) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
-4. 🗣 Commented on [#56](https://github.com/puf17640/git-badges/issues/56) in [puf17640/git-badges](https://github.com/puf17640/git-badges)
-5. 🗣 Commented on [#2](https://github.com/katorlys/Spigot-CustomConfig/issues/2) in [katorlys/Spigot-CustomConfig](https://github.com/katorlys/Spigot-CustomConfig)
-6. 🗣 Commented on [#2](https://github.com/katorlys/Spigot-CustomConfig/issues/2) in [katorlys/Spigot-CustomConfig](https://github.com/katorlys/Spigot-CustomConfig)
+1. ❗️ Closed issue [#5](https://github.com/katorlys/StarlinUtils/issues/5) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
+2. ❗️ Closed issue [#56](https://github.com/puf17640/git-badges/issues/56) in [puf17640/git-badges](https://github.com/puf17640/git-badges)
+3. 🗣 Commented on [#6](https://github.com/katorlys/StarlinUtils/issues/6) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
+4. 🗣 Commented on [#6](https://github.com/katorlys/StarlinUtils/issues/6) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
+5. ❗️ Opened issue [#6](https://github.com/katorlys/StarlinUtils/issues/6) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
+6. 🗣 Commented on [#56](https://github.com/puf17640/git-badges/issues/56) in [puf17640/git-badges](https://github.com/puf17640/git-badges)
 <!--END_SECTION:activity-->
 
 <!-- ## 💎 Featured Projects
