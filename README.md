@@ -24,12 +24,12 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/katorlys/StarlinUtils/issues/5) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
-2. ❗️ Closed issue [#56](https://github.com/puf17640/git-badges/issues/56) in [puf17640/git-badges](https://github.com/puf17640/git-badges)
-3. 🗣 Commented on [#6](https://github.com/katorlys/StarlinUtils/issues/6) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
-4. 🗣 Commented on [#6](https://github.com/katorlys/StarlinUtils/issues/6) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
-5. ❗️ Opened issue [#6](https://github.com/katorlys/StarlinUtils/issues/6) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
-6. 🗣 Commented on [#56](https://github.com/puf17640/git-badges/issues/56) in [puf17640/git-badges](https://github.com/puf17640/git-badges)
+1. 💪 Opened PR [#27](https://github.com/Shopkeepers/Language-Files/pull/27) in [Shopkeepers/Language-Files](https://github.com/Shopkeepers/Language-Files)
+2. 💪 Opened PR [#26](https://github.com/Shopkeepers/Language-Files/pull/26) in [Shopkeepers/Language-Files](https://github.com/Shopkeepers/Language-Files)
+3. ❗️ Closed issue [#5](https://github.com/katorlys/StarlinUtils/issues/5) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
+4. ❗️ Closed issue [#56](https://github.com/puf17640/git-badges/issues/56) in [puf17640/git-badges](https://github.com/puf17640/git-badges)
+5. 🗣 Commented on [#6](https://github.com/katorlys/StarlinUtils/issues/6) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
+6. 🗣 Commented on [#6](https://github.com/katorlys/StarlinUtils/issues/6) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
 <!--END_SECTION:activity-->
 
 <!-- ## 💎 Featured Projects
