@@ -24,12 +24,12 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#234](https://github.com/PlayPro/CoreProtect/issues/234) in [PlayPro/CoreProtect](https://github.com/PlayPro/CoreProtect)
-2. 💪 Opened PR [#27](https://github.com/Shopkeepers/Language-Files/pull/27) in [Shopkeepers/Language-Files](https://github.com/Shopkeepers/Language-Files)
-3. 💪 Opened PR [#26](https://github.com/Shopkeepers/Language-Files/pull/26) in [Shopkeepers/Language-Files](https://github.com/Shopkeepers/Language-Files)
-4. ❗️ Closed issue [#5](https://github.com/katorlys/StarlinUtils/issues/5) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
-5. ❗️ Closed issue [#56](https://github.com/puf17640/git-badges/issues/56) in [puf17640/git-badges](https://github.com/puf17640/git-badges)
-6. 🗣 Commented on [#6](https://github.com/katorlys/StarlinUtils/issues/6) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
+1. ❗️ Opened issue [#1](https://github.com/BuildistMC/update-logs/issues/1) in [BuildistMC/update-logs](https://github.com/BuildistMC/update-logs)
+2. 🗣 Commented on [#234](https://github.com/PlayPro/CoreProtect/issues/234) in [PlayPro/CoreProtect](https://github.com/PlayPro/CoreProtect)
+3. 💪 Opened PR [#27](https://github.com/Shopkeepers/Language-Files/pull/27) in [Shopkeepers/Language-Files](https://github.com/Shopkeepers/Language-Files)
+4. 💪 Opened PR [#26](https://github.com/Shopkeepers/Language-Files/pull/26) in [Shopkeepers/Language-Files](https://github.com/Shopkeepers/Language-Files)
+5. ❗️ Closed issue [#5](https://github.com/katorlys/StarlinUtils/issues/5) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
+6. ❗️ Closed issue [#56](https://github.com/puf17640/git-badges/issues/56) in [puf17640/git-badges](https://github.com/puf17640/git-badges)
 <!--END_SECTION:activity-->
 
 <!-- ## 💎 Featured Projects
