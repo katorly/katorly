@@ -18,3 +18,5 @@ jobs:
         with:
           COMMIT_MSG: 'Update recent activities'
           MAX_LINES: 6
+      - uses: gautamkrishnar/keepalive-workflow@v1
+          
