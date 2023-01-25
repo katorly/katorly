@@ -24,10 +24,10 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/puf17640/git-badges/issues/62) in [puf17640/git-badges](https://github.com/puf17640/git-badges)
-2. 🎉 Merged PR [#10](https://github.com/katorlys/katorlys.github.io/pull/10) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
-3. 💪 Opened PR [#10](https://github.com/katorlys/katorlys.github.io/pull/10) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
-4. 🗣 Commented on [#234](https://github.com/PlayPro/CoreProtect/issues/234) in [PlayPro/CoreProtect](https://github.com/PlayPro/CoreProtect)
+1. 🗣 Commented on [#1740](https://github.com/redhat-developer/vscode-java/issues/1740) in [redhat-developer/vscode-java](https://github.com/redhat-developer/vscode-java)
+2. 🗣 Commented on [#62](https://github.com/puf17640/git-badges/issues/62) in [puf17640/git-badges](https://github.com/puf17640/git-badges)
+3. 🎉 Merged PR [#10](https://github.com/katorlys/katorlys.github.io/pull/10) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
+4. 💪 Opened PR [#10](https://github.com/katorlys/katorlys.github.io/pull/10) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
 5. ❗️ Closed issue [#5](https://github.com/katorlys/StarlinUtils/issues/5) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
 6. ❗️ Closed issue [#56](https://github.com/puf17640/git-badges/issues/56) in [puf17640/git-badges](https://github.com/puf17640/git-badges)
 <!--END_SECTION:activity-->
