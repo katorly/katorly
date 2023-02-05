@@ -25,11 +25,11 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#31](https://github.com/Zaitonn/Serein/issues/31) in [Zaitonn/Serein](https://github.com/Zaitonn/Serein)
-2. ❗️ Opened issue [#31](https://github.com/Zaitonn/Serein/issues/31) in [Zaitonn/Serein](https://github.com/Zaitonn/Serein)
-3. 🗣 Commented on [#2](https://github.com/katorly/blog/issues/2) in [katorly/blog](https://github.com/katorly/blog)
-4. 🗣 Commented on [#2](https://github.com/katorly/blog/issues/2) in [katorly/blog](https://github.com/katorly/blog)
-5. ❗️ Opened issue [#1](https://github.com/katorly/blog/issues/1) in [katorly/blog](https://github.com/katorly/blog)
-6. 🗣 Commented on [#1740](https://github.com/redhat-developer/vscode-java/issues/1740) in [redhat-developer/vscode-java](https://github.com/redhat-developer/vscode-java)
+2. 🗣 Commented on [#31](https://github.com/Zaitonn/Serein/issues/31) in [Zaitonn/Serein](https://github.com/Zaitonn/Serein)
+3. 🗣 Commented on [#31](https://github.com/Zaitonn/Serein/issues/31) in [Zaitonn/Serein](https://github.com/Zaitonn/Serein)
+4. ❗️ Opened issue [#31](https://github.com/Zaitonn/Serein/issues/31) in [Zaitonn/Serein](https://github.com/Zaitonn/Serein)
+5. 🗣 Commented on [#2](https://github.com/katorly/blog/issues/2) in [katorly/blog](https://github.com/katorly/blog)
+6. 🗣 Commented on [#2](https://github.com/katorly/blog/issues/2) in [katorly/blog](https://github.com/katorly/blog)
 <!--END_SECTION:activity-->
 
 ## 💎 Featured Projects
