@@ -24,12 +24,12 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/Zaitonn/Serein/issues/31) in [Zaitonn/Serein](https://github.com/Zaitonn/Serein)
-2. 🗣 Commented on [#31](https://github.com/Zaitonn/Serein/issues/31) in [Zaitonn/Serein](https://github.com/Zaitonn/Serein)
-3. 🗣 Commented on [#31](https://github.com/Zaitonn/Serein/issues/31) in [Zaitonn/Serein](https://github.com/Zaitonn/Serein)
-4. ❗️ Opened issue [#31](https://github.com/Zaitonn/Serein/issues/31) in [Zaitonn/Serein](https://github.com/Zaitonn/Serein)
-5. 🗣 Commented on [#2](https://github.com/katorly/blog/issues/2) in [katorly/blog](https://github.com/katorly/blog)
-6. 🗣 Commented on [#2](https://github.com/katorly/blog/issues/2) in [katorly/blog](https://github.com/katorly/blog)
+1. 🗣 Commented on [#4](https://github.com/katorlys/test/issues/4) in [katorlys/test](https://github.com/katorlys/test)
+2. 🗣 Commented on [#4](https://github.com/katorlys/test/issues/4) in [katorlys/test](https://github.com/katorlys/test)
+3. 💪 Opened PR [#4](https://github.com/katorlys/test/pull/4) in [katorlys/test](https://github.com/katorlys/test)
+4. ❌ Closed PR [#2](https://github.com/katorlys/test/pull/2) in [katorlys/test](https://github.com/katorlys/test)
+5. ❌ Closed PR [#3](https://github.com/katorlys/test/pull/3) in [katorlys/test](https://github.com/katorlys/test)
+6. 🗣 Commented on [#129](https://github.com/contributor-assistant/github-action/issues/129) in [contributor-assistant/github-action](https://github.com/contributor-assistant/github-action)
 <!--END_SECTION:activity-->
 
 ## 💎 Featured Projects
