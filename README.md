@@ -24,12 +24,12 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/katorlys/MediaKit/pull/8) in [katorlys/MediaKit](https://github.com/katorlys/MediaKit)
-2. 🗣 Commented on [#4](https://github.com/katorlys/test/issues/4) in [katorlys/test](https://github.com/katorlys/test)
-3. 🗣 Commented on [#4](https://github.com/katorlys/test/issues/4) in [katorlys/test](https://github.com/katorlys/test)
-4. 💪 Opened PR [#4](https://github.com/katorlys/test/pull/4) in [katorlys/test](https://github.com/katorlys/test)
-5. ❌ Closed PR [#2](https://github.com/katorlys/test/pull/2) in [katorlys/test](https://github.com/katorlys/test)
-6. ❌ Closed PR [#3](https://github.com/katorlys/test/pull/3) in [katorlys/test](https://github.com/katorlys/test)
+1. ❗️ Closed issue [#8](https://github.com/katorlys/StarlinUtils/issues/8) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
+2. 💪 Opened PR [#7](https://github.com/katorlys/StarlinUtils/pull/7) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
+3. 🎉 Merged PR [#8](https://github.com/katorlys/MediaKit/pull/8) in [katorlys/MediaKit](https://github.com/katorlys/MediaKit)
+4. 🗣 Commented on [#4](https://github.com/katorlys/test/issues/4) in [katorlys/test](https://github.com/katorlys/test)
+5. 🗣 Commented on [#4](https://github.com/katorlys/test/issues/4) in [katorlys/test](https://github.com/katorlys/test)
+6. 💪 Opened PR [#4](https://github.com/katorlys/test/pull/4) in [katorlys/test](https://github.com/katorlys/test)
 <!--END_SECTION:activity-->
 
 ## 💎 Featured Projects
