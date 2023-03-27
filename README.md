@@ -24,12 +24,12 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/katorlys/StarlinUtils/issues/14) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
-2. ❗️ Closed issue [#6](https://github.com/katorlys/StarlinUtils/issues/6) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
-3. 🗣 Commented on [#6](https://github.com/katorlys/StarlinUtils/issues/6) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
-4. ❗️ Opened issue [#13](https://github.com/katorlys/StarlinUtils/issues/13) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
-5. ❗️ Opened issue [#12](https://github.com/katorlys/StarlinUtils/issues/12) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
-6. ❗️ Opened issue [#11](https://github.com/katorlys/StarlinUtils/issues/11) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
+1. 🗣 Commented on [#15](https://github.com/katorlys/StarlinUtils/issues/15) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
+2. 🎉 Merged PR [#15](https://github.com/katorlys/StarlinUtils/pull/15) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
+3. 💪 Opened PR [#15](https://github.com/katorlys/StarlinUtils/pull/15) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
+4. ❗️ Opened issue [#14](https://github.com/katorlys/StarlinUtils/issues/14) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
+5. ❗️ Closed issue [#6](https://github.com/katorlys/StarlinUtils/issues/6) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
+6. 🗣 Commented on [#6](https://github.com/katorlys/StarlinUtils/issues/6) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
 <!--END_SECTION:activity-->
 
 ## 💎 Featured Projects
