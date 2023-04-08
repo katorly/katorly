@@ -24,12 +24,12 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/katorly/taboolib-kdoc/pull/3) in [katorly/taboolib-kdoc](https://github.com/katorly/taboolib-kdoc)
-2. 🎉 Merged PR [#2](https://github.com/katorly/taboolib-kdoc/pull/2) in [katorly/taboolib-kdoc](https://github.com/katorly/taboolib-kdoc)
-3. 💪 Opened PR [#2](https://github.com/katorly/taboolib-kdoc/pull/2) in [katorly/taboolib-kdoc](https://github.com/katorly/taboolib-kdoc)
-4. 🗣 Commented on [#16](https://github.com/katorlys/StarlinUtils/issues/16) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
-5. ❗️ Closed issue [#14](https://github.com/katorlys/StarlinUtils/issues/14) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
-6. 🎉 Merged PR [#16](https://github.com/katorlys/StarlinUtils/pull/16) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
+1. 🗣 Commented on [#3](https://github.com/katorly/taboolib-kdoc/issues/3) in [katorly/taboolib-kdoc](https://github.com/katorly/taboolib-kdoc)
+2. 💪 Opened PR [#3](https://github.com/katorly/taboolib-kdoc/pull/3) in [katorly/taboolib-kdoc](https://github.com/katorly/taboolib-kdoc)
+3. 🎉 Merged PR [#2](https://github.com/katorly/taboolib-kdoc/pull/2) in [katorly/taboolib-kdoc](https://github.com/katorly/taboolib-kdoc)
+4. 💪 Opened PR [#2](https://github.com/katorly/taboolib-kdoc/pull/2) in [katorly/taboolib-kdoc](https://github.com/katorly/taboolib-kdoc)
+5. 🗣 Commented on [#16](https://github.com/katorlys/StarlinUtils/issues/16) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
+6. ❗️ Closed issue [#14](https://github.com/katorlys/StarlinUtils/issues/14) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
 <!--END_SECTION:activity-->
 
 ## 💎 Featured Projects
