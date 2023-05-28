@@ -1,7 +1,9 @@
 <h1 align="center">Hi there! 👋</h1>
-<h3 align="center">Personal Website: https://katorly.gitee.io</h3>
+<h3 align="center">Personal Website: https://katorly.github.io</h3>
 <!-- Old Visitor Badge: https://visitor-badge.laobi.icu/badge?page_id=katorly.katorly -->
-<!-- <p align="center"><a href="https://github.com/katorly"><img src="https://badges.pufler.dev/visits/katorly/katorly?style=for-the-badge&color=85ABFF"></a> <a href="https://github.com/katorly"><img src="https://badges.pufler.dev/repos/katorly?style=for-the-badge&color=EE7379"></a> <a href="https://github.com/katorly"><img src="https://badges.pufler.dev/gists/katorly?style=for-the-badge&color=C894EB"></a></p> -->
+<!-- Visitor Badge: https://badges.pufler.dev/visits/katorly/katorly -->
+
+<!-- <p align="center"><a href="https://github.com/katorly"><img src="https://badges.pufler.dev/repos/katorly?style=for-the-badge&color=EE7379"></a> <a href="https://github.com/katorly"><img src="https://badges.pufler.dev/gists/katorly?style=for-the-badge&color=C894EB"></a> <a href="https://github.com/katorly"><img src="https://badges.pufler.dev/years/katorly?style=for-the-badge&color=ADD752"></a></p> -->
 <p align="center"><a href="https://github.com/katorly"><img src="https://badges.strrl.dev/repos/katorly?style=for-the-badge&color=EE7379"></a> <a href="https://github.com/katorly"><img src="https://badges.strrl.dev/gists/katorly?style=for-the-badge&color=C894EB"></a> <a href="https://github.com/katorly"><img src="https://badges.strrl.dev/years/katorly?style=for-the-badge&color=ADD752"></a></p>
 
 ## 📜 About Me
@@ -12,15 +14,17 @@ Feel free to ask me questions about Minecraft server setup making.😄<br>
 
 Most of my projects are in [**Katorly Lab**](https://github.com/katorlys). Everyone is welcome to join the lab and make contributions.<br>
 
+**Click the image below to view the projects!** 👇<br>
+
+<p align="center"><a href="https://github.com/katorlys"><img width="96%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/KatorlyLabBanner.svg"></a></p>
+
 For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<br>
 
-<p align="center"><a href="https://github.com/katorlys"><img width="96%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Katorly%20Lab%20GIF.gif"></a></p>
-
 ## 📊 My Statistics
-<p align="center"><a href="https://github.com/katorly"><img width="48%" src="https://github-readme-stats-katorly.vercel.app/api?username=katorly&title_color=3E79CC&show_icons=true&icon_color=80CAFF&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"></a> <a href="https://github.com/katorly"><img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=Katorly&date_format=%5BY.%5Dn.j&ring=3E79CC&fire=3E79CC&sideLabels=3E79CC&currStreakLabel=3E79CC&currStreakNum=333333&sideNums=333333"></a><br><br>
+<p align="center"><a href="https://github.com/katorly"><img width="48%" src="https://github-readme-stats-katorly.vercel.app/api?username=katorly&title_color=3E79CC&show_icons=true&icon_color=80CAFF&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"></a> <a href="https://github.com/katorly"><img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=Katorly&date_format=%5BY.%5Dn.j&ring=3E79CC&fire=3E79CC&sideLabels=3E79CC&currStreakLabel=3E79CC&currStreakNum=333333&sideNums=333333"></a><br>
 <!-- Top Languages: <a href="https://github.com/katorly"><img width="48%" src="https://github-readme-stats-katorly.vercel.app/api/top-langs/?username=katorly&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"></a><br><br> -->
 <!-- <a href="https://github.com/katorly"><img width="94%" src="https://ghchart.rshah.org/409ba5/katorly"></a> -->
-<a href="https://github.com/katorly"><!-- <img width="96%" src="https://activity-graph.herokuapp.com/graph?username=Katorly&theme=minimal"> --><img width="96%" src="https://ghchart.rshah.org/4D97FF/Katorly"></a></p>
+<!-- <a href="https://github.com/katorly"><img width="96%" src="https://activity-graph.herokuapp.com/graph?username=Katorly&theme=minimal"> img width="96%" src="https://ghchart.rshah.org/4D97FF/Katorly"></a>--></p>
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
@@ -32,7 +36,7 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 6. 🎉 Merged PR [#17](https://github.com/katorlys/StarlinUtils/pull/17) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
 <!--END_SECTION:activity-->
 
-## 💎 Featured Projects
+<!-- ## 💎 Featured Projects
 <details><summary><b>Click to Open</b></summary>
 
 - [`katorlys/prism-theme-github`](https://github.com/katorlys/prism-theme-github)
@@ -40,7 +44,7 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 - [`katorlys/Spigot-CustomConfig`](https://github.com/katorlys/Spigot-CustomConfig)
 - [`katorly/SpringtimeSpawn`](https://github.com/katorly/SpringtimeSpawn)
 - [`katorly/SummertimeSpawn`](https://github.com/katorly/SummertimeSpawn)
-</details>
+</details> -->
 
 <!-- <details><summary><b>⭐ Popular Projects I contributed to</b></summary>
 
@@ -49,9 +53,10 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 </details> -->
 
 ## 🔗 Social Links
-<p align="left"><a href="https://github.com/katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/github.png"></a>
-<a href="https://www.spigotmc.org/members/katorly.1301379/#resources"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/spigotmc.png"></a>
-<a href="https://www.planetminecraft.com/member/katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/planetminecraft.png"></a>
-<!-- <a href="https://www.buymeacoffee.com/katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/buymeacoffee.png"></a> -->
-<a href="https://afdian.net/@katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/afdian.png"></a>
-<a href="mailto:katorly@qq.com"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/email.png"></a></p>
+<p align="left"><a href="https://github.com/katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/social/github.png"></a>
+<a href="https://www.npmjs.com/~katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/social/npmjs.png"></a>
+<a href="https://modrinth.com/user/katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/social/modrinth.png"></a>
+<a href="https://www.planetminecraft.com/member/katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/social/planetminecraft.png"></a>
+<!-- <a href="https://www.buymeacoffee.com/katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/social/buymeacoffee.png"></a> -->
+<a href="https://afdian.net/@katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/social/afdian.png"></a>
+<a href="mailto:katorly@qq.com"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/social/email.png"></a></p>
