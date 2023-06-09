@@ -29,11 +29,11 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#12](https://github.com/katorly/Gallery001/pull/12) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
-2. 🎉 Merged PR [#1](https://github.com/katorly/katorly.github.io/pull/1) in [katorly/katorly.github.io](https://github.com/katorly/katorly.github.io)
-3. 🗣 Commented on [#80](https://github.com/theme-kaze/hexo-theme-kaze/issues/80) in [theme-kaze/hexo-theme-kaze](https://github.com/theme-kaze/hexo-theme-kaze)
-4. 🗣 Commented on [#11](https://github.com/katorlys/katorlys.github.io/issues/11) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
-5. 🗣 Commented on [#3](https://github.com/katorly/blog/issues/3) in [katorly/blog](https://github.com/katorly/blog)
-6. 🎉 Merged PR [#3](https://github.com/katorly/taboolib-kdoc/pull/3) in [katorly/taboolib-kdoc](https://github.com/katorly/taboolib-kdoc)
+2. 🗣 Commented on [#80](https://github.com/theme-kaze/hexo-theme-kaze/issues/80) in [theme-kaze/hexo-theme-kaze](https://github.com/theme-kaze/hexo-theme-kaze)
+3. 🗣 Commented on [#11](https://github.com/katorlys/katorlys.github.io/issues/11) in [katorlys/katorlys.github.io](https://github.com/katorlys/katorlys.github.io)
+4. 🎉 Merged PR [#3](https://github.com/katorly/taboolib-kdoc/pull/3) in [katorly/taboolib-kdoc](https://github.com/katorly/taboolib-kdoc)
+5. 🔒 Closed issue [#11](https://github.com/katorlys/StarlinUtils/issues/11) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
+6. 🔒 Closed issue [#12](https://github.com/katorlys/StarlinUtils/issues/12) in [katorlys/StarlinUtils](https://github.com/katorlys/StarlinUtils)
 <!--END_SECTION:activity-->
 
 <!-- ## 💎 Featured Projects
