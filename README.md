@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
-<h3 align="center">Personal Website: [i.katorly.work](https://i.katorly.work)</h3>
+<h3 align="center">Personal Website: <a href="https://i.katorly.work">i.katorly.work</a></h3>
 <!-- Old Visitor Badge: https://visitor-badge.laobi.icu/badge?page_id=katorly.katorly -->
 <!-- Visitor Badge: https://badges.pufler.dev/visits/katorly/katorly -->
 
