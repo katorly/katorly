@@ -28,12 +28,12 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/Andy-K-Sparklight/PluginDiary/issues/8) in [Andy-K-Sparklight/PluginDiary](https://github.com/Andy-K-Sparklight/PluginDiary)
+1. 🎉 Merged PR [#13](https://github.com/katorly/Gallery001/pull/13) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
 2. 🗣 Commented on [#8](https://github.com/Andy-K-Sparklight/PluginDiary/issues/8) in [Andy-K-Sparklight/PluginDiary](https://github.com/Andy-K-Sparklight/PluginDiary)
-3. 🗣 Commented on [#4](https://github.com/katorly/blog/issues/4) in [katorly/blog](https://github.com/katorly/blog)
-4. 🗣 Commented on [#8](https://github.com/Andy-K-Sparklight/PluginDiary/issues/8) in [Andy-K-Sparklight/PluginDiary](https://github.com/Andy-K-Sparklight/PluginDiary)
-5. 🎉 Merged PR [#12](https://github.com/katorly/Gallery001/pull/12) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
-6. 🗣 Commented on [#80](https://github.com/theme-kaze/hexo-theme-kaze/issues/80) in [theme-kaze/hexo-theme-kaze](https://github.com/theme-kaze/hexo-theme-kaze)
+3. 🗣 Commented on [#8](https://github.com/Andy-K-Sparklight/PluginDiary/issues/8) in [Andy-K-Sparklight/PluginDiary](https://github.com/Andy-K-Sparklight/PluginDiary)
+4. 🗣 Commented on [#4](https://github.com/katorly/blog/issues/4) in [katorly/blog](https://github.com/katorly/blog)
+5. 🗣 Commented on [#8](https://github.com/Andy-K-Sparklight/PluginDiary/issues/8) in [Andy-K-Sparklight/PluginDiary](https://github.com/Andy-K-Sparklight/PluginDiary)
+6. 🎉 Merged PR [#12](https://github.com/katorly/Gallery001/pull/12) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
 <!--END_SECTION:activity-->
 
 <!-- ## 💎 Featured Projects
