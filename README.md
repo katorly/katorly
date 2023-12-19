@@ -28,8 +28,8 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/katorly/Gallery001/pull/17) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
-2. 🎉 Merged PR [#15](https://github.com/katorly/Gallery001/pull/15) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
+1. 🎉 Merged PR [#18](https://github.com/katorly/Gallery001/pull/18) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
+2. 🎉 Merged PR [#17](https://github.com/katorly/Gallery001/pull/17) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
 3. 🎉 Merged PR [#4](https://github.com/katorly/taboolib-kdoc/pull/4) in [katorly/taboolib-kdoc](https://github.com/katorly/taboolib-kdoc)
 4. 💪 Opened PR [#4](https://github.com/katorly/taboolib-kdoc/pull/4) in [katorly/taboolib-kdoc](https://github.com/katorly/taboolib-kdoc)
 5. 🎉 Merged PR [#14](https://github.com/katorly/Gallery001/pull/14) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
