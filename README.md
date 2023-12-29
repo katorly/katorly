@@ -28,10 +28,10 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/katorly/Gallery001/pull/18) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
-2. 🎉 Merged PR [#17](https://github.com/katorly/Gallery001/pull/17) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
-3. 🎉 Merged PR [#4](https://github.com/katorly/taboolib-kdoc/pull/4) in [katorly/taboolib-kdoc](https://github.com/katorly/taboolib-kdoc)
-4. 💪 Opened PR [#4](https://github.com/katorly/taboolib-kdoc/pull/4) in [katorly/taboolib-kdoc](https://github.com/katorly/taboolib-kdoc)
+1. ❌ Closed PR [#5](https://github.com/katorly/taboolib-kdoc/pull/5) in [katorly/taboolib-kdoc](https://github.com/katorly/taboolib-kdoc)
+2. 💪 Opened PR [#5](https://github.com/katorly/taboolib-kdoc/pull/5) in [katorly/taboolib-kdoc](https://github.com/katorly/taboolib-kdoc)
+3. 🎉 Merged PR [#18](https://github.com/katorly/Gallery001/pull/18) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
+4. 🎉 Merged PR [#17](https://github.com/katorly/Gallery001/pull/17) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
 5. 🎉 Merged PR [#14](https://github.com/katorly/Gallery001/pull/14) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
 6. 🎉 Merged PR [#13](https://github.com/katorly/Gallery001/pull/13) in [katorly/Gallery001](https://github.com/katorly/Gallery001)
 <!--END_SECTION:activity-->
