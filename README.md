@@ -1,26 +1,34 @@
 <h1 align="center">Hi there! 👋</h1>
-<h3 align="center">Personal Website: <a href="https://i.katorly.work">i.katorly.work</a></h3>
 <!-- Old Visitor Badge: https://visitor-badge.laobi.icu/badge?page_id=katorly.katorly -->
 <!-- Visitor Badge: https://badges.pufler.dev/visits/katorly/katorly -->
 
 <!-- <p align="center"><a href="https://github.com/katorly"><img src="https://badges.pufler.dev/repos/katorly?style=for-the-badge&color=EE7379"></a> <a href="https://github.com/katorly"><img src="https://badges.pufler.dev/gists/katorly?style=for-the-badge&color=C894EB"></a> <a href="https://github.com/katorly"><img src="https://badges.pufler.dev/years/katorly?style=for-the-badge&color=ADD752"></a></p> -->
 <p align="center"><a href="https://github.com/katorly"><img src="https://badges.strrl.dev/repos/katorly?style=for-the-badge&color=EE7379"></a> <a href="https://github.com/katorly"><img src="https://badges.strrl.dev/gists/katorly?style=for-the-badge&color=C894EB"></a> <a href="https://github.com/katorly"><img src="https://badges.strrl.dev/years/katorly?style=for-the-badge&color=ADD752"></a></p>
 
+
 ## 📜 About Me
-My name is **Katorly**.<br>
+My name is **Katorly**.  
 
-I'm a Minecraft player who loves playing multiplayer and is fond of making server plugins. I have developed a hobby of making Minecraft Java server plugins over the past several years, and also help translate plugins into Chinese (Simplified).<br>
-Feel free to ask me questions about Minecraft server setup making.😄<br>
+- Website: [i.katorly.work](https://i.katorly.work)
+- Blog: [blog.katorly.work](https://blog.katorly.work)
 
-Most of my projects are in [**Katorly Lab**](https://github.com/katorlys). Everyone is welcome to join the lab and make contributions.<br>
+I put most of my projects in [**<img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/intro/katorlys.png" width="13em"> Katorly Lab**](https://github.com/katorlys).  
+We genuinely welcome everyone to join the lab and develop projects together!  
 
-**Click the image below to view the projects!** 👇<br>
+For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)  
 
-<p align="center"><a href="https://github.com/katorlys"><img width="96%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/KatorlyLabBanner.svg"></a></p>
+### Technology
+Currently focus on:
+- <img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/intro/webstorm.png" width="13em"> Web development
+- <img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/intro/clion.png" width="13em"> Embedded development
 
-For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<br>
+Apart from those, I also use <img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/intro/java.png" width="13em"> Java and <img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/intro/kotlin.png" width="13em"> Kotlin.  
 
-## 📊 My Statistics
+### Gaming
+<img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/intro/minecraft.png" width="13em"> Minecraft, and I've been playing it since 2013. Please invite me to your multiplayer games...  
+
+
+## 📊 Statistics
 <p align="center"><a href="https://github.com/katorly"><img width="48%" src="https://github-readme-stats-katorly.vercel.app/api?username=katorly&title_color=3E79CC&show_icons=true&icon_color=80CAFF&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"></a> <a href="https://github.com/katorly"><img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=Katorly&date_format=%5BY.%5Dn.j&ring=3E79CC&fire=3E79CC&sideLabels=3E79CC&currStreakLabel=3E79CC&currStreakNum=333333&sideNums=333333"></a><br>
 <!-- Top Languages: <a href="https://github.com/katorly"><img width="48%" src="https://github-readme-stats-katorly.vercel.app/api/top-langs/?username=katorly&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"></a><br><br> -->
 <!-- <a href="https://github.com/katorly"><img width="94%" src="https://ghchart.rshah.org/409ba5/katorly"></a> -->
@@ -52,11 +60,11 @@ For business/non-business contact: [**katorly@qq.com**](mailto:katorly@qq.com)<b
 - [`BentoBoxWorld/CaveBlock`](https://github.com/BentoBoxWorld/CaveBlock)
 </details> -->
 
-## 🔗 Social Links
-<p align="left"><a href="https://github.com/katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/social/github.png"></a>
-<a href="https://www.npmjs.com/~katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/social/npmjs.png"></a>
-<a href="https://modrinth.com/user/katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/social/modrinth.png"></a>
-<a href="https://www.planetminecraft.com/member/katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/social/planetminecraft.png"></a>
-<!-- <a href="https://www.buymeacoffee.com/katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/social/buymeacoffee.png"></a> -->
-<a href="https://afdian.net/@katorly"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/social/afdian.png"></a>
-<a href="mailto:katorly@qq.com"><img width="5%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/social/email.png"></a></p>
+
+## 🔗 Links
+<p align="left"><a href="https://github.com/katorly"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/github.png" width="20%"></a>
+<a href="https://www.npmjs.com/~katorly"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/npmjs.png" width="20%"></a>
+<a href="https://www.buymeacoffee.com/katorly"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/buymeacoffee.png" width="20%"></a>
+<br>
+<a href="https://www.planetminecraft.com/member/katorly"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/planetminecraft.png" width="20%"></a>
+<a href="mailto:katorly@qq.com"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/email.png" width="20%"></a></p>
