@@ -53,6 +53,5 @@ Apart from those, I use <img src="https://cdn.jsdelivr.net/gh/katorly/katorly/as
 <p align="left"><a href="https://github.com/katorly"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/github.png" width="15%"></a>
 <a href="https://www.npmjs.com/~katorly"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/npmjs.png" width="15%"></a>
 <a href="https://www.buymeacoffee.com/katorly"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/buymeacoffee.png" width="15%"></a>
-<br>
 <a href="https://www.planetminecraft.com/member/katorly"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/planetminecraft.png" width="15%"></a>
 <a href="mailto:katorly@qq.com"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/email.png" width="15%"></a></p>
