@@ -1,5 +1,5 @@
 # Hi there! 👋
-My name is **Katorly**.  
+My name is **Katorly**. Contact email: [i@katorly.work](mailto:i@katorly.work).  
 
 - Website: [i.katorly.work](https://i.katorly.work)
 - Blog: [blog.katorly.work](https://blog.katorly.work)
@@ -24,7 +24,8 @@ Apart from those, I use <img src="https://cdn.jsdelivr.net/gh/katorly/katorly/as
 <!-- Visitor Badge: https://badges.pufler.dev/visits/katorly/katorly -->
 
 <!-- <a href="https://github.com/katorly"><img src="https://badges.pufler.dev/repos/katorly?style=for-the-badge&color=EE7379"></a> <a href="https://github.com/katorly"><img src="https://badges.pufler.dev/gists/katorly?style=for-the-badge&color=C894EB"></a> <a href="https://github.com/katorly"><img src="https://badges.pufler.dev/years/katorly?style=for-the-badge&color=ADD752"></a> -->
-<a href="https://github.com/katorly"><img src="https://badges.strrl.dev/repos/katorly?style=for-the-badge&color=EE7379"></a> <a href="https://github.com/katorly"><img src="https://badges.strrl.dev/gists/katorly?style=for-the-badge&color=C894EB"></a> <a href="https://github.com/katorly"><img src="https://badges.strrl.dev/years/katorly?style=for-the-badge&color=ADD752"></a>
+<
+a href="https://github.com/katorly"><img src="https://badges.strrl.dev/repos/katorly?style=for-the-badge&color=EE7379"></a> <a href="https://github.com/katorly"><img src="https://badges.strrl.dev/gists/katorly?style=for-the-badge&color=C894EB"></a> <a href="https://github.com/katorly"><img src="https://badges.strrl.dev/years/katorly?style=for-the-badge&color=ADD752"></a>
 
 <a href="https://github.com/katorly"><img width="48%" src="https://github-readme-stats-katorly.vercel.app/api?username=katorly&title_color=3E79CC&show_icons=true&icon_color=80CAFF&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"></a> <a href="https://github.com/katorly"><img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=Katorly&date_format=%5BY.%5Dn.j&ring=3E79CC&fire=3E79CC&sideLabels=3E79CC&currStreakLabel=3E79CC&currStreakNum=333333&sideNums=333333"></a><br>
 <!-- Top Languages: <a href="https://github.com/katorly"><img width="48%" src="https://github-readme-stats-katorly.vercel.app/api/top-langs/?username=katorly&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"></a><br><br> -->
