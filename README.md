@@ -1,8 +1,8 @@
 # Hi there! 👋
-My name is **Katorly**. Contact email: [i@katorly.work](mailto:i@katorly.work).  
+My name is **Katorly**. Contact email: [i@katorly.com](mailto:i@katorly.com).  
 
-- Website: [i.katorly.work](https://i.katorly.work)
-- Blog: [blog.katorly.work](https://blog.katorly.work)
+- Website: [i.katorly.com](https://i.katorly.com)
+- Blog: [blog.katorly.com](https://blog.katorly.com)
 
 I put most of my projects in [**<img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/intro/katorlys.png" width="13em"> Katorly Lab**](https://github.com/katorlys).  
 We genuinely welcome everyone to join the lab and develop projects together!  
@@ -55,4 +55,4 @@ Apart from those, I use <img src="https://cdn.jsdelivr.net/gh/katorly/katorly/as
 <a href
 ="https://www.buymeacoffee.com/katorly"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/buymeacoffee.png" width="15%"></a>
 <a href="https://www.planetminecraft.com/member/katorly"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/planetminecraft.png" width="15%"></a>
-<a href="mailto:i@katorly.work"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/email.png" width="15%"></a></p>
+<a href="mailto:i@katorly.com"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/email.png" width="15%"></a></p>
