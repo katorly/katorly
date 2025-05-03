@@ -4,18 +4,18 @@ My name is **Katorly**. Contact email: [i@katorly.com](mailto:i@katorly.com).
 - Website: [i.katorly.com](https://i.katorly.com)
 - Blog: [blog.katorly.com](https://blog.katorly.com)
 
-I put most of my projects in [**<img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/intro/katorlys.png" width="13em"> Katorly Lab**](https://github.com/katorlys).  
+I put most of my projects in [**<img src="assets/intro/katorlys.png" width="13em"> Katorly Lab**](https://github.com/katorlys).  
 We genuinely welcome everyone to join the lab and develop projects together!  
 
 ### 🔮 Technology
 Currently focus on:
-- <img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/intro/webstorm.png" width="13em"> Web development
-- <img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/intro/clion.png" width="13em"> Embedded development
+- <img src="assets/intro/godot.png" width="13em"> Game development
+- <img src="assets/intro/webstorm.png" width="13em"> Web development
 
-Apart from those, I use <img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/intro/java.png" width="13em"> Java and <img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/intro/kotlin.png" width="13em"> Kotlin too.  
+Apart from those, I use <img src="assets/intro/java.png" width="13em"> Java and <img src="assets/intro/kotlin.png" width="13em"> Kotlin too.  
 
 ### 🎮 Gaming
-<img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/intro/minecraft.png" width="13em"> Minecraft, and I've been playing it since 2013. Please invite me to your multiplayer games...  
+<img src="assets/intro/minecraft.png" width="13em"> Minecraft, and I've been playing it since 2013. Please invite me to your multiplayer games...  
 
 
 ## 📊 Statistics
@@ -50,10 +50,10 @@ Apart from those, I use <img src="https://cdn.jsdelivr.net/gh/katorly/katorly/as
 
 
 ## 🔗 Links
-<p align="left"><a href="https://github.com/katorly"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/github.png" width="15%"></a>
-<a href="https://www.npmjs.com/~katorly"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/npmjs.png" width="15%"></a>
-<a href="https://hub.docker.com/u/katorly"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/docker.png" width="15%"></a>
-<a href="https://www.planetminecraft.com/member/katorly"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/planetminecraft.png" width="15%"></a><br>
+<p align="left"><a href="https://github.com/katorly"><img src="assets/links/github.png" width="15%"></a>
+<a href="https://www.npmjs.com/~katorly"><img src="assets/links/npmjs.png" width="15%"></a>
+<a href="https://hub.docker.com/u/katorly"><img src="assets/links/docker.png" width="15%"></a>
+<a href="https://www.planetminecraft.com/member/katorly"><img src="assets/links/planetminecraft.png" width="15%"></a><br>
 <a href
-="https://www.buymeacoffee.com/katorly"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/buymeacoffee.png" width="15%"></a>
-<a href="mailto:i@katorly.com"><img src="https://cdn.jsdelivr.net/gh/katorly/katorly/assets/links/email.png" width="15%"></a></p>
+="https://www.buymeacoffee.com/katorly"><img src="assets/links/buymeacoffee.png" width="15%"></a>
+<a href="mailto:i@katorly.com"><img src="assets/links/email.png" width="15%"></a></p>
