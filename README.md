@@ -9,7 +9,6 @@ We genuinely welcome everyone to join the lab and develop projects together!
 
 ### 🔮 Technology
 Currently focus on:
-- <img src="assets/intro/godot.png" width="13em"> Game development
 - <img src="assets/intro/webstorm.png" width="13em"> Web development
 
 Apart from those, I use <img src="assets/intro/java.png" width="13em"> Java and <img src="assets/intro/kotlin.png" width="13em"> Kotlin too.  
