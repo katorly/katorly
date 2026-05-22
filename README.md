@@ -1,5 +1,5 @@
 # Hi there! 👋
-My name is **Katorly**. Contact email: [i@katorly.com](mailto:i@katorly.com).  
+My name is **Katorly** (/ˈkeɪtərli/). Contact email: [i@katorly.com](mailto:i@katorly.com).  
 
 - Website: [i.katorly.com](https://i.katorly.com)
 - Blog: [blog.katorly.com](https://blog.katorly.com)
@@ -9,7 +9,6 @@ We genuinely welcome everyone to join the lab and develop projects together!
 
 ### 🔮 Technology
 Currently focus on:
-- <img src="assets/intro/godot.png" width="13em"> Game development
 - <img src="assets/intro/webstorm.png" width="13em"> Web development
 
 Apart from those, I use <img src="assets/intro/java.png" width="13em"> Java and <img src="assets/intro/kotlin.png" width="13em"> Kotlin too.  
@@ -58,5 +57,4 @@ Apart from those, I use <img src="assets/intro/java.png" width="13em"> Java and 
 <br>
 <a href="https://www.buymeacoffee.com/katorly"><img src="assets/links/buymeacoffee.png" width="15%"></a>
 <a href="mailto:i@katorly.com"><img src="assets/links/email.png" width="15%"></a>
-<a href="https://katorly.itch.io"><img src="assets/links/itch.io.png" width="15%"></a>
 </p>
